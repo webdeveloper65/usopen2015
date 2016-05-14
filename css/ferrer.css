@@ -1,0 +1,82 @@
+body{
+	background-image: url("../images/tennisballs.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+header{
+	height: 200px;
+	width: 100%;
+	background-color: #000066;
+	margin: 0px;
+	padding: 0px;
+	top: 0px;
+	left: 0px;
+	position: absolute;
+}
+
+#ferrer{
+	background-color: blue;
+	color: #00FF00;
+	border: 2px solid black;
+	border-radius: 10px;
+	width: 1000px;
+	height: 1200px;
+	font-size: 25px;
+	font-family: Cambria;
+	margin-left: 220px;
+	margin-top: 300px;
+}
+
+ul li{
+	background-color: red;
+	width: 70px;
+	border-radius: 10px;
+	padding: 10px;
+	display: inline;
+	list-style-type: none;
+	margin: 10px;
+	float: left;
+}
+
+img{
+	float: left;
+	margin: 10px;
+}
+
+h2{
+	color: #00FF00;
+	background-color: blue;
+	width: 60px;
+	padding: 10px;
+	float: left;
+	border: 2px solid red;
+	border-radius: 10px;
+}
+
+footer{
+	text-align: center;
+	color: white;
+	background-color: #000066;
+	height: 100%;
+	margin: -10px;
+}
+
+iframe{
+	margin-left: 200px;
+}
+
+a{
+	color: #00FF00;
+	text-decoration: none;
+}
+
+a:hover{
+	color: #00FF00;
+	text-decoration: none;
+}
+
+a:active{
+	color: #00FF00;
+	text-decoration: none;
+}
